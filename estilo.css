@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+.navbar{
+    display: flex;
+    flex-flow: row wrap;
+    height: 80px;
+    background-color: rgb(236, 142, 142);
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    flex:20%;
+    text-align: center;
+}
+
+.logo h1{
+    font-family: 'Lobister', cursive;
+    color: #180f4a;
+    font-size: 30px;
+}
